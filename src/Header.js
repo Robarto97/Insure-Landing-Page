@@ -41,8 +41,11 @@ const Header = () => {
           expertise and technology to help you find the plan that's right for
           you. Ensure you and your loved ones are protected.
         </p>
+
         <button>View Plans</button>
       </section>
+      <div className="pattern-right"></div>
+      <div className="pattern-left"></div>
     </header>
   );
 };
