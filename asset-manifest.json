@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Insure-Landing-Page/static/css/main.8ce9520b.css",
+    "main.js": "/Insure-Landing-Page/static/js/main.91502e1a.js",
+    "static/media/image-intro-desktop.jpg": "/Insure-Landing-Page/static/media/image-intro-desktop.2f3429f63753a67e322b.jpg",
+    "static/media/image-intro-mobile.jpg": "/Insure-Landing-Page/static/media/image-intro-mobile.8b8c3185ce1388b2bb9e.jpg",
+    "static/media/logo.svg": "/Insure-Landing-Page/static/media/logo.b84080a147fc2d2276186c0349edfeec.svg",
+    "static/media/bg-pattern-mobile-nav.svg": "/Insure-Landing-Page/static/media/bg-pattern-mobile-nav.b2fceba3d85314c10486.svg",
+    "static/media/bg-pattern-how-we-work-desktop.svg": "/Insure-Landing-Page/static/media/bg-pattern-how-we-work-desktop.eb268c33d9921cd960db.svg",
+    "static/media/bg-pattern-intro-left-desktop.svg": "/Insure-Landing-Page/static/media/bg-pattern-intro-left-desktop.3a425b38f5531b055de4.svg",
+    "static/media/bg-pattern-intro-right-desktop.svg": "/Insure-Landing-Page/static/media/bg-pattern-intro-right-desktop.0c130b3f008bf9eb1d1b.svg",
+    "static/media/bg-pattern-footer-desktop.svg": "/Insure-Landing-Page/static/media/bg-pattern-footer-desktop.700c39ea607592bfacaf.svg",
+    "static/media/bg-pattern-footer-mobile.svg": "/Insure-Landing-Page/static/media/bg-pattern-footer-mobile.9f048cf0d8710a041f70.svg",
+    "static/media/bg-pattern-how-we-work-mobile.svg": "/Insure-Landing-Page/static/media/bg-pattern-how-we-work-mobile.96cd9d0635dc0b442022.svg",
+    "static/media/bg-pattern-intro-left-mobile.svg": "/Insure-Landing-Page/static/media/bg-pattern-intro-left-mobile.111709ef92e6f76465a9.svg",
+    "static/media/bg-pattern-intro-right-mobile.svg": "/Insure-Landing-Page/static/media/bg-pattern-intro-right-mobile.0354e57129409ea983cd.svg",
+    "static/media/icon-affordable-prices.svg": "/Insure-Landing-Page/static/media/icon-affordable-prices.a14b80772734da267900f7318cf981cc.svg",
+    "static/media/icon-people-first.svg": "/Insure-Landing-Page/static/media/icon-people-first.d7caeec6d85bd1e295394236448c7dc9.svg",
+    "index.html": "/Insure-Landing-Page/index.html",
+    "static/media/icon-snappy-process.svg": "/Insure-Landing-Page/static/media/icon-snappy-process.eea918825472aa9c0993c85ced5522e7.svg",
+    "static/media/icon-close.svg": "/Insure-Landing-Page/static/media/icon-close.138d7330a68c2cac58df.svg",
+    "static/media/icon-hamburger.svg": "/Insure-Landing-Page/static/media/icon-hamburger.0a05a993ee531d488dea.svg",
+    "main.8ce9520b.css.map": "/Insure-Landing-Page/static/css/main.8ce9520b.css.map",
+    "main.91502e1a.js.map": "/Insure-Landing-Page/static/js/main.91502e1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ce9520b.css",
+    "static/js/main.91502e1a.js"
+  ]
+}
